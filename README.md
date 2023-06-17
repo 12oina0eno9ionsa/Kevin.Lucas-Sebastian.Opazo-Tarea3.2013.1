@@ -3,6 +3,8 @@
 Kevin Lucas
 Sebastian Opazo
 
+No se logro hacer reproducir el archivo .wav debido a que no podiamos incluir QT += multimedia  ,  <QMediaPlayer>. 
+
 La tarea fue hecha con la ayuda del codigo de ayuda que se encuentra en el PDF. Por lo que se trabajo directamente en el IDE QT Creator
 Esta el proyecto archivo.pro que compila en QTCreator. 
 
